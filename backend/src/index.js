@@ -5,7 +5,6 @@ const Dev = require("./models/Dev");
 require("dotenv/config");
 
 const app = express();
-console.log();
 mongoose.connect(
   `mongodb+srv://omnistack:${process.env.BD_PASSWORD}@cluster0-khfx4.mongodb.net/week-10?retryWrites=true&w=majority`,
   {
