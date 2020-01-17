@@ -37,7 +37,7 @@ module.exports = {
       });
 
       const sendSocketMessageTo = findConnections(
-        {latitude, longite},
+        {latitude, longitude},
          techsArray
         )
 
