@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://192.168.0.209:3333" //colocar seu ip
+  baseURL:
+    "https://3333-b4a748c1-ba30-4773-b70b-bd8afc7ec1f3.ws-us02.gitpod.io/" //colocar seu ip
 });
 
 export default api;
