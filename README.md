@@ -1,6 +1,6 @@
 # Semana Omnistack 10
 
-## Projeto da semana omnistack-10 ministrado pelo Diego Fernandes da Rocketseat.
+ <p>Projeto da semana omnistack-10 ministrado pelo Diego Fernandes da Rocketseat</p>
 
 ## Pré-requisitos
 
